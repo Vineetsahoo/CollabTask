@@ -1,0 +1,31 @@
+<!-- Simple SVG icon that can be converted to PNG/ICO/ICNS -->
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="240" fill="#3B82F6" stroke="#1D4ED8" stroke-width="4"/>
+  
+  <!-- Task board icon -->
+  <g transform="translate(156, 156)">
+    <!-- Board background -->
+    <rect x="0" y="0" width="200" height="150" rx="12" fill="white" opacity="0.9"/>
+    
+    <!-- Task columns -->
+    <rect x="20" y="30" width="50" height="100" rx="6" fill="#EF4444" opacity="0.8"/>
+    <rect x="85" y="30" width="50" height="100" rx="6" fill="#F59E0B" opacity="0.8"/>
+    <rect x="150" y="30" width="30" height="100" rx="6" fill="#10B981" opacity="0.8"/>
+    
+    <!-- Task items -->
+    <rect x="25" y="40" width="40" height="12" rx="2" fill="white"/>
+    <rect x="25" y="58" width="35" height="12" rx="2" fill="white"/>
+    <rect x="25" y="76" width="42" height="12" rx="2" fill="white"/>
+    
+    <rect x="90" y="40" width="40" height="12" rx="2" fill="white"/>
+    <rect x="90" y="58" width="38" height="12" rx="2" fill="white"/>
+    
+    <rect x="155" y="40" width="20" height="12" rx="2" fill="white"/>
+  </g>
+  
+  <!-- App title -->
+  <text x="256" y="400" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="36" font-weight="bold">
+    CollabTask
+  </text>
+</svg>
