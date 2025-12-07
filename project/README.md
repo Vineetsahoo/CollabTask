@@ -67,18 +67,18 @@ The built applications will be in the `dist-electron` folder.
 
 ```
 project/
-├── electron/              # Electron main process files
-│   ├── main.js            # Main Electron process
-│   ├── preload.js         # Preload script for security
-│   └── assets/            # App icons and assets
-├── src/                   # React application source
-│   ├── components/        # Reusable React components
-│   ├── pages/             # Application pages/views
-│   ├── types/             # TypeScript type definitions
-│   ├── utils/             # Utility functions
-│   └── data/              # Mock data and constants
-├── dist/                  # Built React application
-└── dist-electron/         # Built desktop applications
+├── electron/              
+│   ├── main.js            
+│   ├── preload.js         
+│   └── assets/            
+├── src/                   
+│   ├── components/        
+│   ├── pages/             
+│   ├── types/             
+│   ├── utils/             
+│   └── data/              
+├── dist/                  
+└── dist-electron/         
 ```
 
 ## 🎯 Available Scripts
