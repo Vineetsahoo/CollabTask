@@ -2,7 +2,7 @@
 
 A modern task management and collaboration desktop application built with Electron, React, TypeScript, and Tailwind CSS.
 
-## 🚀 Features
+## Features
 
 - **Desktop Native**: Runs as a native desktop application on Windows, macOS, and Linux
 - **Modern UI**: Beautiful, responsive interface with dark/light mode support
@@ -13,7 +13,7 @@ A modern task management and collaboration desktop application built with Electr
 - **Workflows**: Automated workflow management
 - **Offline Support**: Works offline with local data storage
 
-## 🛠️ Development
+## Development
 
 ### Prerequisites
 
@@ -63,7 +63,7 @@ npm run dist:linux  # Linux
 
 The built applications will be in the `dist-electron` folder.
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 project/
@@ -81,7 +81,7 @@ project/
 └── dist-electron/         
 ```
 
-## 🎯 Available Scripts
+## Available Scripts
 
 - `npm run dev` - Start Vite development server
 - `npm run build` - Build React app for production
@@ -94,7 +94,7 @@ project/
 - `npm run dist:mac` - Build macOS DMG
 - `npm run dist:linux` - Build Linux AppImage
 
-## 🔧 Configuration
+## Configuration
 
 ### App Configuration
 The app configuration is in `package.json` under the `build` section:
@@ -109,7 +109,7 @@ Place your app icons in `electron/assets/`:
 - `icon.ico` - ICO file for Windows
 - `icon.icns` - ICNS file for macOS
 
-## 🖥️ Desktop Features
+## Desktop Features
 
 ### Menu Bar Integration
 - **File Menu**: New Task (Ctrl/Cmd+N), Settings (Ctrl/Cmd+,)
@@ -121,7 +121,7 @@ Place your app icons in `electron/assets/`:
 - **Taskbar/Dock**: Proper app integration
 - **Auto-updater**: Ready for app updates (when configured)
 
-## 🔒 Security
+## Security
 
 The app follows Electron security best practices:
 - Context isolation enabled
@@ -129,7 +129,7 @@ The app follows Electron security best practices:
 - Secure preload script for API exposure
 - Content Security Policy
 
-## 🚀 Deployment
+## Deployment
 
 ### Automatic Updates
 To enable automatic updates, configure your update server in `electron/main.js` and set up:
@@ -142,7 +142,7 @@ To enable automatic updates, configure your update server in `electron/main.js` 
 2. **macOS**: Creates DMG file (.dmg)
 3. **Linux**: Creates AppImage (.AppImage)
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -150,7 +150,7 @@ To enable automatic updates, configure your update server in `electron/main.js` 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📱 Future Enhancements
+## Future Enhancements
 
 - Mobile companion app
 - Cloud synchronization
@@ -158,12 +158,11 @@ To enable automatic updates, configure your update server in `electron/main.js` 
 - Advanced integrations (Slack, Teams, etc.)
 - Enhanced offline capabilities
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
+## Acknowledgments
 - Built with [Electron](https://electronjs.org/)
 - UI powered by [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/)
 - Icons from [Lucide React](https://lucide.dev/)

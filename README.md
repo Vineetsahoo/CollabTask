@@ -1,10 +1,10 @@
-# 🚀 CollabTask – Team Collaboration & Workflow Automation
+#  CollabTask – Team Collaboration & Workflow Automation
 
 CollabTask is a **task & workflow management platform** designed for remote teams to **collaborate, assign tasks, and track progress efficiently**. It offers real-time collaboration, AI-powered task assistance, and automated workflows to streamline productivity.
 
 ---
 
-## 🔹 Features
+## Features
 
 ✅ **Role-Based Task Assignment** – Assign tasks with different permissions.  
 ✅ **Kanban & List View** – Switch between **Kanban boards** & **list views**.  
@@ -16,7 +16,7 @@ CollabTask is a **task & workflow management platform** designed for remote team
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js / Vue.js  
 - **Backend:** Node.js (Express) / Django  
@@ -26,9 +26,9 @@ CollabTask is a **task & workflow management platform** designed for remote team
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
-### 🚀 Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/your-username/collabtask.git
 cd collabtask
