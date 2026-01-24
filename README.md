@@ -6,13 +6,13 @@ CollabTask is a **task & workflow management platform** designed for remote team
 
 ## Features
 
-✅ **Role-Based Task Assignment** – Assign tasks with different permissions.  
-✅ **Kanban & List View** – Switch between **Kanban boards** & **list views**.  
-✅ **Automated Workflows** – Set rules to automate task progress.  
-✅ **Real-Time Chat & Comments** – Collaborate instantly within tasks.  
-✅ **Time Tracking & Reports** – Measure productivity & generate reports.  
-✅ **Deadline & Milestone Tracking** – Visualize progress with Gantt charts.  
-✅ **Third-Party Integrations** – Sync with Jira, Trello, Slack, and Google Calendar.  
+ **Role-Based Task Assignment** – Assign tasks with different permissions.  
+**Kanban & List View** – Switch between **Kanban boards** & **list views**.  
+ **Automated Workflows** – Set rules to automate task progress.  
+ **Real-Time Chat & Comments** – Collaborate instantly within tasks.  
+ **Time Tracking & Reports** – Measure productivity & generate reports.  
+ **Deadline & Milestone Tracking** – Visualize progress with Gantt charts.  
+ **Third-Party Integrations** – Sync with Jira, Trello, Slack, and Google Calendar.  
 
 ---
 
@@ -32,3 +32,4 @@ CollabTask is a **task & workflow management platform** designed for remote team
 ```bash
 git clone https://github.com/your-username/collabtask.git
 cd collabtask
+
