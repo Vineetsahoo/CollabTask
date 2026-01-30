@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CollabTask
 
 A task and workflow management platform designed for remote teams to collaborate, assign tasks, and track progress efficiently.
@@ -139,5 +138,6 @@ CollabTask is a **task & workflow management platform** designed for remote team
 ```bash
 git clone https://github.com/your-username/collabtask.git
 cd collabtask
+
 
 >>>>>>> 9caa41bcefb6506c94d1492fce7952e0d5c8fb49
